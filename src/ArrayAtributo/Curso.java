@@ -4,7 +4,7 @@ public class Curso {
     private String nombre;
 
     // Esto se hace en caso de que el usuario quiera elegir el nombre
-    // de sus estudiantesen el array
+    // de sus estudiantes en el array
     public String getNombre() {
         return nombre;
     }
